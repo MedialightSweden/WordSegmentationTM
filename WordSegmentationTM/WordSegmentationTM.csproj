@@ -19,10 +19,14 @@
   
    <ItemGroup>
     <None Remove="frequency_dictionary_en_82_765.txt" />
+    <None Remove="frequency_dictionary_sv_3_590_701.txt" />
   </ItemGroup>
 
   <ItemGroup>
     <Content Include="frequency_dictionary_en_82_765.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="frequency_dictionary_sv_3_590_701.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
