@@ -15,6 +15,7 @@
     <RepositoryType>Git</RepositoryType>
     <PackageTags>word-segmentation, word-segment, text-segmentation, spelling, spelling-correction, symspell</PackageTags>
     <Version>1.0</Version>
+    <RootNamespace>WordSegmentation</RootNamespace>
   </PropertyGroup>
   
    <ItemGroup>

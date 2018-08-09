@@ -20,7 +20,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace WordSegmentationTM
+namespace WordSegmentation
 {
     public class WordSegmentationTM
     {
